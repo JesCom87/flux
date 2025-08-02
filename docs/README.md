@@ -10,4 +10,4 @@ Flux is MachineOuterface (LowBack), to UserInterface (HighFront). It works with 
 
 • BIOS, Bootloader, MBR, Kernel, OS (System).
 • Lexer, Parser, Assembler, Linker, Compiler (Core).
-• Platform, Library, Framework, Stack (Modules).
+• Platform, Library, Framework, Stack, Ecosystem (Module).
