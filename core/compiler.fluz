@@ -1,0 +1,18 @@
+// compiler.flux — loads file, lexes, parses, prints AST
+import core.lexer
+import core.parser
+import core.ast
+import core.token
+
+module core.compiler
+
+func readFile(path: string): string =
+  // NOTE: in bootstrap we’ll use Python; in native Flux this must be implemented.
+  panic("readFile not implemented in native Flux yet")
+
+func main(args: string[]):
+  if len(args) < 1 { println("usage: fluxc <file.flux>"); return }
+  let srcPath = args[0]
+  // Placeholder: the native Flux runtime would provide readFile
+  // For now, this file is mirrored by the Python bootstrap.
+  println("// fluxc (native stub) — use tools/fluxc_bootstrap.py for now.")
