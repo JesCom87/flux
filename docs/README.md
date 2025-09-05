@@ -103,7 +103,7 @@ Air|Water|Land
 Accommodation|Education|Information|Transportation|Construction 
 
 # Agenda 
-    Scheduling
+    Scheduling 
 Calendar|Clock 
     Productivity 
 Projects|Tasks 
