@@ -36,3 +36,15 @@ ArgList     := Expr ("," Expr)*
 Primary     := Number | String | "true" | "false" | Identifier | "(" Expr ")"
 
 Block       := "{" Stmt* "}"
+
+# Convergence 
+    Hardware
+CentralBoard=MainStructure|PrimeCard|OperatingCore 
+
+# Flux
+    Experience 
+Hardware|Ableware=MachineOuterFace|SmallLowBack=Architecture|Engineering=Flux=Management|Administration=FrontHighBig|UserInterFace=Proware|Software
+
+# Intelligence 
+    Software 
+Money|Time=Growth=Agenda|Outfit|Business=Balance=Means|Ends
