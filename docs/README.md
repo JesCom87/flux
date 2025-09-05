@@ -81,32 +81,44 @@ Money|Time=Growth=Agenda|Outfit|Business=Balance=Means|Ends
 • Optimum 
 
 # Business 
+    
     Economics 
 Leakage|Injection=Import|Export=Taxation|Spending=Investments|Savings=Input|Output 
+    
     Finance 
 Buy|Sell=Support|Resistant=Bullish|Bearish 
+    
     Accounting 
 Increase|Decrease=Revenue|Expense=Debit|Credit 
+    
     Marketing 
 Research|Positioning=Auditing|Scanning=Branding|Advertising 
+    
     Supply Chain 
 Vending|Listing=Logisting|Provisioning=Bearing|Sourcing 
+    
     Human Resources 
 Vacationing|Scheduling=Educating|Training=Onboarding|Recruitming
 
 # Outfit
+    
     Revolutionary 
 Robotics|Defense|Aerospace|Energy
+    
     Infrastructure 
 Air|Water|Land
+    
     Industry
 Accommodation|Education|Information|Transportation|Construction 
 
 # Agenda 
+    
     Scheduling 
 Calendar|Clock 
+    
     Productivity 
 Projects|Tasks 
+    
     Collaboration 
 Spaces|Rooms
 
