@@ -44,7 +44,7 @@ Block       := "{" Stmt* "}"
 ∆∆      Duality 
 ∆∆∆     Trinity 
 
-# Eminence 
+# • Eminence 
 
 ## Modus Operandi Equilibrium 
     Church
