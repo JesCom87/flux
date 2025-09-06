@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flux Language — Minimal Subset (v0.1)
 
 ## Comments
@@ -122,3 +123,6 @@ Projects|Tasks
     Collaboration 
 Spaces|Rooms
 
+=======
+![Flux Pyramid](docs/flux_pyramid.svg)
+>>>>>>> 2959154 (Initial Flux repo upload)
