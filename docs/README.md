@@ -46,17 +46,17 @@ Block       := "{" Stmt* "}"
 
 # • Eminence 
 
-## Modus Operandi Equilibrium 
+## - Modus Operandi Equilibrium 
     Church
 Maker=God|Devil=Christianity|Judaism|Islam
 Satisfy=Measure|Weight 
 
-## Worldwide Services Council 
+## - Worldwide Services Council 
     Government 
 Overseer=Democratic|Republican=Constitutional|Federal|Presidential 
 Model=Structure|Properties<>Function=Behavior|Change 
 
-## Tailor Tomorrow Today 
+## - Tailor Tomorrow Today 
     Business 
 Leader=Management|Administration=Accounting|Finance|Economics 
 Work=Matter|Energy=Dimension|Motion|Exertion 
@@ -65,15 +65,15 @@ Work=Matter|Energy=Dimension|Motion|Exertion
 
 # • Synergy 
 
-## Convergence 
+## - Convergence 
     Hardware
 CentralBoard=MainStructure|PrimeCard|OperatingCore 
 
-## Flux
+## - Flux
     Experience 
 Hardware|Ableware=MachineOuterFace|SmallLowBack=Architecture|Engineering=Flux=Management|Administration=FrontHighBig|UserInterFace=Proware|Software
 
-## Intelligence 
+## - Intelligence 
     Software 
 Money|Time=Growth=Agenda|Outfit|Business=Balance=Means|Ends
 
@@ -81,9 +81,9 @@ Money|Time=Growth=Agenda|Outfit|Business=Balance=Means|Ends
 
 # • Optimum 
 
-## Business 
+## - Business 
     
-    - Economics 
+    Economics 
 Leakage|Injection=Import|Export=Taxation|Spending=Investments|Savings=Input|Output 
     
     Finance 
@@ -101,7 +101,7 @@ Vending|Listing=Logisting|Provisioning=Bearing|Sourcing
     Human Resources 
 Vacationing|Scheduling=Educating|Training=Onboarding|Recruitming
 
-## Outfit
+## - Outfit
     
     Revolutionary 
 Robotics|Defense|Aerospace|Energy
@@ -112,7 +112,7 @@ Air|Water|Land
     Industry
 Accommodation|Education|Information|Transportation|Construction 
 
-## Agenda 
+## - Agenda 
     
     Scheduling 
 Calendar|Clock 
