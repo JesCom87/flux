@@ -61,7 +61,7 @@ Model=Structure|Properties<>Function=Behavior|Change
 Leader=Management|Administration=Accounting|Finance|Economics 
 Work=Matter|Energy=Dimension|Motion|Exertion 
 
-# =========================================
+# =================
 
 # • Synergy 
 
@@ -77,13 +77,13 @@ Hardware|Ableware=MachineOuterFace|SmallLowBack=Architecture|Engineering=Flux=Ma
     Software 
 Money|Time=Growth=Agenda|Outfit|Business=Balance=Means|Ends
 
-=========================================
+# =================
 
 # • Optimum 
 
 ## Business 
     
-    Economics 
+    - Economics 
 Leakage|Injection=Import|Export=Taxation|Spending=Investments|Savings=Input|Output 
     
     Finance 
