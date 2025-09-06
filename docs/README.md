@@ -63,7 +63,7 @@ Work=Matter|Energy=Dimension|Motion|Exertion
 
 =========================================
 
-# Synergy 
+# • Synergy 
 
 ## Convergence 
     Hardware
@@ -79,7 +79,7 @@ Money|Time=Growth=Agenda|Outfit|Business=Balance=Means|Ends
 
 =========================================
 
-# Optimum 
+# • Optimum 
 
 ## Business 
     
