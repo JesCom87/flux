@@ -40,8 +40,8 @@ Block       := "{" Stmt* "}"
 
 ===================================================
 
-# ∆       Unity
-# ∆∆      Duality 
+#   ∆       Unity
+#  ∆∆      Duality 
 # ∆∆∆     Trinity 
 
 # • Eminence 
