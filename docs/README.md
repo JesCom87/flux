@@ -40,9 +40,9 @@ Block       := "{" Stmt* "}"
 
 ===================================================
 
-∆       Unity
-∆∆      Duality 
-∆∆∆     Trinity 
+# ∆       Unity
+# ∆∆      Duality 
+# ∆∆∆     Trinity 
 
 # • Eminence 
 
@@ -61,7 +61,7 @@ Model=Structure|Properties<>Function=Behavior|Change
 Leader=Management|Administration=Accounting|Finance|Economics 
 Work=Matter|Energy=Dimension|Motion|Exertion 
 
-=========================================
+# =========================================
 
 # • Synergy 
 
