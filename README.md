@@ -2,7 +2,7 @@
 ### Information Station
 ##### Elements of Computing
 
-1) <p>Power:<br>
+<p>1) Power:<br>
 • Guru (Behavior Generator)<br> 
 - Arcane<br> 
 • Flux (Vernacular Dialect)<br> 
@@ -11,40 +11,40 @@
 - Operations<br> 
 - Missions</p>
 
-2) <p>Boost:<br> 
+<p>2) Boost:<br> 
 • Immersion (Codex Decipher)<br> 
 - Faculty, Facility, Factory, Foundry.</p>
 
-3) <p>Source:<br> 
+<p>3) Source:<br> 
 ✓ Customized, CC1 (OPQ).<br> 
 × Fixed, X86|ARM (ISA)</p>
 
 -------------------------------------------------------------
 
-1) Maestro (GUI)
-2) Queue (CLI)
-3) Jargon (IDE)
-4) Heed (TE)
+<p>1) Maestro (GUI)<br>
+2) Queue (CLI)<br>
+3) Jargon (IDE)<br>
+4) Heed (TE)</p>
 
-5) Slang (Lingo)
-6) Warp (Forge)
+<p>5) Slang (Lingo)<br>
+6) Warp (Forge)</p>
 
-7) Solemu (Full System Emulation) 
-8) Solesim (Full System Simulation)
-9) SBLC (Schematics: Boards) (Layouts: Components) 
+<p>7) Solemu (Full System Emulation)<br>
+8) Solesim (Full System Simulation)<br>
+9) SBLC (Schematics: Boards) (Layouts: Components)</p> 
 
-10) TimeSheet (Human Resources)
-11) PurchaseOrder (Supply Chain)
-12) PublicRelation (Marketing) 
-13) DoubleEntry (Accounting)
-14) MarketPlace (Finance) 
-15) StationaryState (Economics)
+<p>10) TimeSheet (Human Resources)<br>
+11) PurchaseOrder (Supply Chain)<br>
+12) PublicRelation (Marketing)<br> 
+13) DoubleEntry (Accounting)<br>
+14) MarketPlace (Finance)<br>
+15) StationaryState (Economics)</p>
 
-14) Date (Calendar|Clock)
-15) Work (Project|Tasks)
-16) Talk (Spaces|Rooms) 
+<p>14) Date (Calendar|Clock)<br>
+15) Work (Project|Tasks)<br>
+16) Talk (Spaces|Rooms)</p> 
 
-17) GainPay (Payment: Estimate|Invoice|Receipt)
+<p>17) GainPay (Payment: Estimate|Invoice|Receipt)</p>
 
 -------------------------------------------------------------
 
