@@ -71,7 +71,7 @@ Mathematics, AlphaNumerics, Linguistics.
 Probability, Sagacity, Strategy.
 
 2) (Mid)
-Decimal, Ordinal, Cardinal.
+Decimal, Ordinal, Cardinal. 
 Calculate, Fluate, Translate.
 
 3) (Soft)
