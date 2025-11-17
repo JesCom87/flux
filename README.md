@@ -3,20 +3,20 @@
 ##### Elements of Computing
 
 1) <p>Power:<br>
-• Guru (Behavior Generator)<br>
-- Arcane<br>
-• Flux (Vernacular Dialect)<br>
-- Shift<br>
-• Tactic (Operative Planner)<br>
-- Operations<br>
+• Guru (Behavior Generator)<br> 
+- Arcane<br> 
+• Flux (Vernacular Dialect)<br> 
+- Shift<br> 
+• Tactic (Operative Planner)<br> 
+- Operations<br> 
 - Missions</p>
 
-2) <p>Boost:<br>
-• Immersion (Codex Decipher)<br>
+2) <p>Boost:<br> 
+• Immersion (Codex Decipher)<br> 
 - Faculty, Facility, Factory, Foundry.</p>
 
-3) <p>Source:<br>
-✓ Customized, CC1 (OPQ).<br>
+3) <p>Source:<br> 
+✓ Customized, CC1 (OPQ).<br> 
 × Fixed, X86|ARM (ISA)</p>
 
 -------------------------------------------------------------
