@@ -1,52 +1,153 @@
-# Flux
-flux/
+# Synergy
+### Information Station
+##### Elements of Computing
 
-## Suite
-suite/
+1) Power:
+• Guru (Behavior Generator)
+- Arcane 
+• Flux (Vernacular Dialect)
+- Shift 
+• Tactic (Operative Planner)
+- Operations 
+- Missions
 
--------------------------------
+2) Boost:
+• Immersion (Codex Decipher)
+- Faculty, Facility, Factory, Foundry.
 
-### Scribe
-scribe/
+3) Source:
+✓ Customized, CC1 (OPQ). 
+× Fixed, X86|ARM (ISA)
 
-Scribe: `NumberScribe and CrossScribe and LetterScribe` 
+-------------------------------------------------------------
 
-NumberScribe: `assembler and compiler`
+1) Maestro (GUI)
+2) Queue (CLI)
+3) Jargon (IDE)
+4) Heed (TE)
 
-CrossScribe: `linker`
+5) Slang (Lingo)
+6) Warp (Forge)
 
-LetterScribe: `lexer and parser`
+7) Solemu (Full System Emulation) 
+8) Solesim (Full System Simulation)
+9) SBLC (Schematics: Boards) (Layouts: Components) 
 
--------------------------------
+10) TimeSheet (Human Resources)
+11) PurchaseOrder (Supply Chain)
+12) PublicRelation (Marketing) 
+13) DoubleEntry (Accounting)
+14) MarketPlace (Finance) 
+15) StationaryState (Economics)
 
-### Face
-face/
+14) Date (Calendar|Clock)
+15) Work (Project|Tasks)
+16) Talk (Spaces|Rooms) 
 
-Face: `MachineOuterFace and UserCenterFace and HumanInterFace`
- 
-MachineOuterFace: 
+17) GainPay (Payment: Estimate|Invoice|Receipt)
 
-UserCenterFace: 
+-------------------------------------------------------------
 
-HumanInterFace:
+1) (Hard) 
+A) ApexEngine|MainStructure, B) CentralBoard|PinnacleChassis, C) BasisChip|PrimeCard, D) DialSystem|OperatingCore, E) MoveFrame|WakeMotor.
 
--------------------------------
+2) (Mid) 
+A) Flesh|Bone, B) Veins|Nerves, C) Ears|Eyes, D) Heart|Brain, E) Body|Mind.
 
-### Ware
-ware/
+3) (Soft) 
+A) Strength|Rigidity, B) Vigour|Stasis, C) Harmony|Clarity, D) Console|Solace, E) Mobility|Sensibility
 
-Ware: `AbleWare and ThresWare and ProWare`
+-------------------------------------------------------------
 
-AbleWare: 
+3) (Hard)
+MachineOuterFace, UserCenterFace, HumanInterFace. 
+SmallLowBack MedMedMed BigHighFront 
 
-ThresWare: 
+2) (Mid)
+NumberScribe, CrossScribe, LetterScribe.
+Mathematics, AlphaNumerics, Linguistics.
 
-ProWare: 
+1) (Core)
+Probability, Sagacity, Strategy.
+
+2) (Mid)
+Decimal, Ordinal, Cardinal.
+Calculate, Fluate, Translate.
+
+3) (Soft)
+Engineering, Infrastructure, Architecture.
+Management, Organization, Administration.
+
+-------------------------------------------------------------
+
+3) (Hard)
+Boot (BIOS, Bootloader, MBR, Kernel, OS)
+Driver (Screen, Speakers, Keyboard, Mouse, Microphone, Camera)
+Circuit (Register, Matrix)
+Memory (Cache, Flash)
+Storage (Disk, Drive)
+Speed (Buffer, Latency)
+
+2) (Mid)
+Data (Reading, Writing)
+Meta (Content, Context)
+Type (Effects, Params, Sums)
+Token (Node, Edge)
+Tree (Ordered, Labeled)
+Syntax (Manifest)
+
+1) (Core)
+System (Settings, Configs, Utilities.) 
+
+2) (Mid)
+Account (Nickname, Password)
+Profile (Picture, Banner, Name, Biography, Address, Number)
+Contacts (Professional, Personal)
+Chat (Call, Text)
+Forum (Questions, Answers)
+Community (News)
+
+3) (Soft)
+Desk (Video, Image, Audio)
+Office (Slide, Sheet, Script)
+Work (Design, Create)
+Store (Upload, Download)
+Web (Domain, Email, Site)
+Explorer (Filer, Browser)
+
+-------------------------------------------------------------
+
+2) (Hard) 
+File, Module, Package, Library, Tool. 
+
+1) (Mid) 
+Application
+
+2) (Soft) 
+Framework, Platform, Stack, Ecosystem,
+Environment.
+
+-------------------------------------------------------------
+
+Locale: 
+2) (Hard)
+Database, Warehouse. 
+
+1) (Mid)
+Internet.
+
+2) (Soft)
+Server, Network.
+
+-------------------------------------------------------------
+
+2) Wireless:
+Broadband, Broadcast.
+
+1) Comms:
+Telepathy.
 
 =====================================
-
-### I learned Computer Science in a month, here's what I got:
-
 
 # Computer Science (Revised)
 
