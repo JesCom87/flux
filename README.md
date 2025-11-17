@@ -15,7 +15,7 @@ NumberScribe: `assembler and compiler`
 
 CrossScribe: `linker`
 
-LetterScribe: `lexer and Parser`
+LetterScribe: `lexer and parser`
 
 -------------------------------
 
