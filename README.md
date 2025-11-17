@@ -129,7 +129,6 @@ Environment.
 
 -------------------------------------------------------------
 
-Locale: 
 2) (Hard)
 Database, Warehouse. 
 
