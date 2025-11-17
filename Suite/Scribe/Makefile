@@ -1,13 +1,10 @@
 CC = gcc
 CFLAGS = -Iinclude -Wall
 
-SRC = src/letterscribe.c src/crossscribe.c src/numberscribe.c src/scribe_main.c
-TARGET = scribe
+all: scribe
 
-all: $(TARGET)
-
-$(TARGET): $(SRC)
-	$(CC) $(CFLAGS) $(SRC) -o $(TARGET)
+scribe: src/scribe_main.c src/letterscribe.c src/crossscribe.c src/numberscribe.c
+	$(CC) $(CFLAGS) -o scribe src/scribe_main.c src/letterscribe.c src/crossscribe.c src/numberscribe.c
 
 clean:
-	rm -f $(TARGET)
+	rm -f scribe output.flux linked.flux
