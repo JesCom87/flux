@@ -4,10 +4,10 @@ flux/
 ## Suite
 suite/
 
+-------------------------------
+
 ### Scribe
 scribe/
-
--------------------------------
 
 Scribe: `NumberScribe and CrossScribe and LetterScribe` 
 
@@ -16,6 +16,32 @@ NumberScribe: `assembler and compiler`
 CrossScribe: `linker`
 
 LetterScribe: `lexer and Parser`
+
+-------------------------------
+
+### Face
+face/
+
+Face: `MachineOuterFace and UserCenterFace and HumanInterFace`
+ 
+MachineOuterFace: 
+
+UserCenterFace: 
+
+HumanInterFace:
+
+-------------------------------
+
+### Ware
+ware/
+
+Ware: `AbleWare and ThresWare and ProWare`
+
+AbleWare: 
+
+ThresWare: 
+
+ProWare: 
 
 =====================================
 
