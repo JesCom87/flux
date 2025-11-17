@@ -2,22 +2,22 @@
 ### Information Station
 ##### Elements of Computing
 
-1) Power:
-• Guru (Behavior Generator)
-- Arcane 
-• Flux (Vernacular Dialect)
-- Shift 
-• Tactic (Operative Planner)
-- Operations 
-- Missions
+1) <p>Power:<br>
+• Guru (Behavior Generator)<br>
+- Arcane<br>
+• Flux (Vernacular Dialect)<br>
+- Shift<br>
+• Tactic (Operative Planner)<br>
+- Operations<br>
+- Missions</p>
 
-2) Boost:
-• Immersion (Codex Decipher)
-- Faculty, Facility, Factory, Foundry.
+2) <p>Boost:<br>
+• Immersion (Codex Decipher)<br>
+- Faculty, Facility, Factory, Foundry.</p>
 
-3) Source:
-✓ Customized, CC1 (OPQ). 
-× Fixed, X86|ARM (ISA)
+3) <p>Source:<br>
+✓ Customized, CC1 (OPQ).<br>
+× Fixed, X86|ARM (ISA)</p>
 
 -------------------------------------------------------------
 
