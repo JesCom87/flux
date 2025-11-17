@@ -1,3 +1,27 @@
+# Flux
+flux/
+
+## Suite
+suite/
+
+### Scribe
+scribe/
+
+-------------------------------
+
+Scribe: `NumberScribe and CrossScribe and LetterScribe` 
+
+NumberScribe: `assembler and compiler`
+
+CrossScribe: `linker`
+
+LetterScribe: `lexer and Parser`
+
+=====================================
+
+### I learned Computer Science in a month, here's what I got:
+
+
 # Computer Science (Revised)
 
 ### Computer Science
@@ -407,6 +431,8 @@ Opcode, Disp, Imm.
 
 - Machine Learning is a sub of Artificial Intelligence.
 
+-------------------------------
+
 #### Math
 
 - Theory, Analysis.
@@ -437,6 +463,8 @@ Opcode, Disp, Imm.
 
 - 0-1.
 
+-------------------------------
+
 #### Discrete Math
 
 - Sets, Combinatorics, Relations.
@@ -453,8 +481,19 @@ Opcode, Disp, Imm.
 
 - First, Second, Third.
 
+-------------------------------
+
 #### Example with Layers of Abstraction
 
 - Pseudocode Sorting and Classification Programs from Data Structures and Algorithms for Deep Learning of Neural Networks of Artificial Intelligence.
 
+-------------------------------
+
+Hope you enjoyed!
+
+Thanks!
+
+<p>Jesse Comeau<br>
+Owner/Founder<br>
+One.1</p> 
 
