@@ -51,9 +51,9 @@ LetterScribe: `lexer parser`</p>
 14) MarketPlace (Finance)<br>
 15) StationaryState (Economics)</p>
 
-<p>14) Date (Calendar|Clock)<br>
-15) Work (Project|Tasks)<br>
-16) Talk (Spaces|Rooms)</p> 
+<p>16) Date (Calendar|Clock)<br>
+17) Work (Project|Tasks)<br>
+18) Talk (Spaces|Rooms)</p> 
 
 <p>17) GainPay (Payment: Estimate|Invoice|Receipt)</p>
 
