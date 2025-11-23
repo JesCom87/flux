@@ -1,2 +1,1 @@
-// test/hello.flux
-PRINT "Hello, Flux!"
+PRINT "Hello Flux"

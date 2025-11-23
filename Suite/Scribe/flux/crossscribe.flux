@@ -1,22 +1,7 @@
 module CrossScribe
 
-struct Symbol {
-    name: string
-    address: int
-}
-
-func link(modules: list<ASTNode>) -> list<ASTNode> {
-    var globalSymbols = []
-    var linkedModules = []
-
-    for mod in modules {
-        for node in mod.children {
-            if node.type == "IDENTIFIER" {
-                globalSymbols.append(Symbol(node.value, 0))
-            }
-        }
-        linkedModules.append(mod)
-    }
-
-    return linkedModules
+func link(ast_list: list<dict>) -> dict {
+    let combined = {"type":"linked", "body":[]}
+    for a in ast_list { combined["body"] += a["body"] }
+    return combined
 }

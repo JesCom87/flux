@@ -1,6 +1,0 @@
-CONST 5
-CONST 10
-ADD
-PRINT
-CONST "Hello, Flux!"
-PRINT

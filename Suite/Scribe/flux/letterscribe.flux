@@ -1,71 +1,58 @@
-// letterscribe.flux
-// Combined Lexer + Parser for Flux
+module LetterScribe
 
-// -------------------------
-// Lexer: tokenize source
-// -------------------------
-func tokenize(content: String) -> List[String] {
-    tokens: List[String] = []
-    buffer: String = ""
-    
-    for c in content {
-        if c == ' ' || c == '\n' || c == '\t' {
-            if buffer != "" {
-                tokens.append(buffer)
-                buffer = ""
-            }
-        } else {
-            buffer += c
+// Very small, intentionally simple lexer+parser for demo purposes.
+
+func read_all(path: string) -> string {
+    return READFILE(path)
+}
+
+func lex(content: string) -> list<string> {
+    let tokens = []
+    var buf = ""
+    var in_str = false
+    for ch in content {
+        if ch == '"' {
+            buf += ch
+            if in_str { tokens.push(buf); buf = ""; in_str = false; }
+            else in_str = true
+            continue
         }
+        if in_str {
+            buf += ch
+            continue
+        }
+        if ch == ' ' or ch == '\n' or ch == '\t' or ch == '\r' {
+            if buf != "" { tokens.push(buf); buf = "" }
+            continue
+        }
+        buf += ch
     }
-    
-    if buffer != "" {
-        tokens.append(buffer)
-    }
-    
+    if buf != "" { tokens.push(buf) }
     return tokens
 }
 
-// -------------------------
-// Parser: build AST from tokens
-// -------------------------
-type ASTNode {
-    value: String
-    children: List[ASTNode]
-}
-
-func parse(tokens: List[String]) -> ASTNode {
-    root: ASTNode = ASTNode(value: "PROGRAM", children: [])
-    i: Int = 0
-
+func parse_tokens(tokens: list<string>) -> dict {
+    // Very small parser that recognizes:
+    // PRINT "text"
+    let i = 0
+    let stmts = []
     while i < tokens.length {
-        t: String = tokens[i]
+        let t = tokens[i]
         if t == "PRINT" {
-            node: ASTNode = ASTNode(value: "PRINT", children: [])
-            i += 1
-            if i < tokens.length {
-                arg: ASTNode = ASTNode(value: tokens[i], children: [])
-                node.children.append(arg)
-            }
-            root.children.append(node)
+            stmts.push({"type":"print", "value": tokens[i+1]})
+            i += 2
+            continue
         }
-        // Add more parsing rules here as needed
+        // fallback: treat tokens as raw
+        stmts.push({"type":"raw", "value": t})
         i += 1
     }
-    
-    return root
+    return {"type":"module", "body": stmts}
 }
 
-// -------------------------
-// Example usage (for testing)
-// -------------------------
-func main() {
-    source: String = 'PRINT "Hello, Flux!"'
-    toks: List[String] = tokenize(source)
-    println("TOKENS:", toks)
-    
-    ast: ASTNode = parse(toks)
-    println("AST:", ast)
+func lex_and_parse_file(path: string) -> dict {
+    let content = read_all(path)
+    let tokens = lex(content)
+    let ast = parse_tokens(tokens)
+    return ast
 }
-
-main()

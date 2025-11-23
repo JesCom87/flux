@@ -1,16 +1,13 @@
 module ScribeMain
 
 import LetterScribe
-import LetterScribeParser
 import CrossScribe
 import NumberScribe
 
-func main(input_file: string, output_file: string) {
-    let tokens = LetterScribe.lex(input_file)
-    let ast = LetterScribeParser.parse(tokens)
+func main(input: string, output: string) {
+    let tokens = LetterScribe.lex(input)
+    let ast = LetterScribe.parse(tokens)
     let linked = CrossScribe.link([ast])
-    NumberScribe.assemble(ast, output_file)
-}
+    NumberScribe.assemble(linked, output)
+    PRINT "Generated " + output
 
-// Example execution
-main("test.flux", "output.op")
