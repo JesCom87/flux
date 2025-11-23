@@ -1,7 +1,7 @@
 
 <p>First come first,<br> 
 <br>
-Scribe: `(NumberScribe, CrossScribe, LetterScribe).<br>
+Scribe: `(NumberScribe, CrossScribe, LetterScribe).`<br>
 <br>
 NumberScribe: `assembler compiler`.<br>
 CrossScribe: `linker`<br>
