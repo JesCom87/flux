@@ -1,11 +1,11 @@
 
-First come first, 
-
-Scribe: `(NumberScribe, CrossScribe, LetterScribe).`
-
-NumberScribe: `assembler compiler`.
-CrossScribe: `linker`
-LetterScribe: `lexer parser`
+<p>First come first,<br> 
+<br>
+Scribe: `(NumberScribe, CrossScribe, LetterScribe).<br>
+<br>
+NumberScribe: `assembler compiler`.<br>
+CrossScribe: `linker`<br>
+LetterScribe: `lexer parser`</p>
  
 -------------------------------------------------------------
 
