@@ -1,3 +1,14 @@
+
+First come first, 
+
+Scribe: `(NumberScribe, CrossScribe, LetterScribe).`
+
+NumberScribe: `assembler compiler`.
+CrossScribe: `linker`
+LetterScribe: `lexer parser`
+ 
+-------------------------------------------------------------
+
 # Synergy
 ### Information Station
 ##### Elements of Computing
